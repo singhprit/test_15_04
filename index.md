@@ -1,1 +1,2 @@
-**I am Priti Singh**
+# I am Priti Singh #
+This is my resume
