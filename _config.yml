@@ -5,3 +5,6 @@ github_username: pr
 author: singhprit@gmail.com
 
 theme: minima
+
+header_pages: 
+   - index.md
