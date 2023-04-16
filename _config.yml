@@ -4,7 +4,4 @@ twitter_username: singhprit
 github_username: pr
 author: singhprit@gmail.com
 
-theme: minima
-
-header_pages: 
-   - index.md
+remote-theme: just-the-docs/just-the-docs
