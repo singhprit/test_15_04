@@ -5,4 +5,4 @@ github_username: pr
 author: singhprit@gmail.com
 include: resume.md
 
-theme: jekyll-theme-minimal
+theme: minima
